@@ -16,6 +16,7 @@ h1 {
 
 hr {
   border-color: aqua;
+  max-width: 65px;
 }
 .buffer {
   height:10rem;
